@@ -1,0 +1,8 @@
+{
+  "name": "Falcon Study",
+  "description": "A sophisticated study portal with spaced repetition and essay helpers for the Moroccan Baccalaureate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
